@@ -12,7 +12,6 @@ import {
   DropdownToggle,
   DropdownMenu,
   DropdownItem } from 'reactstrap';
-import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 import './nav.css'
   const Brand = {
